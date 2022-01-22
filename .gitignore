@@ -1,0 +1,12 @@
+env
+log.txt
+tfile*
+__pycache__
+.ipynb_*
+*.pyc
+*.tar.gz
+
+pretrained_files/data
+pretrained_files/trained_nets
+pretrained_files/fwi_outputs
+pretrained_files/*.tar.gz
